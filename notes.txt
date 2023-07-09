@@ -1,0 +1,2 @@
+1->laravel framework use kia hai jo ki php se inspired hai
+2->views templates saars file sab resources folder mai
